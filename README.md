@@ -42,10 +42,9 @@ To preview, double-click `index.html` to open it in your browser.
 ## 3. Keep it honest and up to date
 
 - Fees and rules change. Every few months, re-check the help center pages listed at the bottom of each page, fix anything that changed, and update `lastChecked`.
-- Keep the disclosure, the "check your local rules" box and the disclaimer. Referral programs and ad platforms usually require clear disclosure.
+- Keep the referral disclosure and the disclaimer. Referral programs and ad platforms usually require clear disclosure.
 - Don't add RedotPay's logo or make the site look official.
 - Read RedotPay's referral terms in the app. For example, RedotPay says you get no commission on card orders where the friend used a discount code of 50% or more.
-- Crypto is restricted in Bangladesh (Bangladesh Bank has warned against using it). Understand the risk for yourself and your readers before you promote it.
 
 ## Facts used (from RedotPay's help center, articles dated Jul–Oct 2026, checked 23 Nov 2026)
 
